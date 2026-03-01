@@ -5,10 +5,10 @@
 
 ## Description
 
+This repo tries to convert Marketplace Worlds from Minecraft Bedrock Edition to Java. Due to any piracy means, this doesn't include worlds that cost Minecoins, and only include worlds that are actually free in the Marketplace. \
+\
 > [!IMPORTANT]
-> Minimum Versions of Minecraft is 1.21.11. You can downgrade them via Chunker, but some blocks won't be available.
-
-This repo tries to convert Marketplace Worlds from Minecraft Bedrock Edition to Java. Due to any piracy means, this doesn't include worlds that cost Minecoins, and only include worlds that are actually free in the Marketplace.
+> Expect converted worlds to break command blocks as Java's Syntax is way different than Bedrock.
 
 ## Why?
 
